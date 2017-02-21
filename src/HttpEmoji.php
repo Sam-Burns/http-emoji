@@ -5,6 +5,8 @@ interface HttpEmoji
 {
     const 🎉 = 200; // OK
 
+    const 🔨 = 201; // Created
+
     const 👍 = 202; // Accepted
 
     const ➡️ = 301; // Moved permanently
