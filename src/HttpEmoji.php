@@ -19,5 +19,7 @@ interface HttpEmoji
 
     const 📏 = 411; // Length required
 
+    const ☕ = 418; // I'm a teapot
+
     const 😱 = 500; // Internal server error
 }
