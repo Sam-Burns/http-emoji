@@ -21,13 +21,15 @@ interface HttpEmoji
 
     const 🤷 = 404; // Not found
 
-    const ⌚ = 408; // Request timeout
+    const ❓⌛ = 408; // Request timeout
 
     const 🥊 = 409; // Conflict
 
     const 📏 = 411; // Length required
 
     const ☕ = 418; // I'm a teapot
+
+    const 🚬 = 420; // Enhance your calm
 
     const ❓💯 = 429; // Too many requests
 
