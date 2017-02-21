@@ -6,6 +6,8 @@ A PHP library mapping emojis to their corresponding HTTP status codes.
 
 Inspired by [Teapot](https://github.com/shrikeh/teapot).
 
+Contributions welcome.
+
 ## Usage Example
 
 ```php
