@@ -7,6 +7,8 @@ interface HttpEmoji
 
     const 👍 = 202; // Accepted
 
+    const ➡️ = 301; // Moved permanently
+
     const ✋ = 401; // Unauthorized
 
     const 🤷 = 404; // Not found
