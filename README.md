@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/Sam-Burns/http-emoji.svg?branch=master)](https://travis-ci.org/Sam-Burns/http-emoji)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Sam-Burns/http-emoji/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Sam-Burns/http-emoji/?branch=master)
 
 # HTTP Emoji
 
