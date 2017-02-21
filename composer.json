@@ -1,0 +1,24 @@
+{
+    "name": "sam-burns/http-emoji",
+
+    "license": "MIT",
+
+    "require": {
+        "php": "^7.0"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "SamBurns\\": "src/"
+        }
+    },
+
+    "suggest": {
+        "shrikeh/teapot": "More sensible HTTP status code library"
+    }
+}
+
