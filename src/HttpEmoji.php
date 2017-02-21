@@ -13,6 +13,8 @@ interface HttpEmoji
 
     const ✋ = 401; // Unauthorized
 
+    const 💰 = 402; // Payment required
+
     const 🤷 = 404; // Not found
 
     const ⌚ = 408; // Request timeout
