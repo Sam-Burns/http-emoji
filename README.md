@@ -21,6 +21,6 @@ $statusCode = HttpEmoji::😱;
 ## Installation
 
 ```bash
-composer require samburns/http-emoji
+composer require sam-burns/http-emoji
 ```
 
