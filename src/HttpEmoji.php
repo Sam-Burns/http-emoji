@@ -11,6 +11,8 @@ interface HttpEmoji
 
     const 👉 = 302; // Moved temporarily
 
+    const ☠❓ = 400; // Bad request
+
     const ✋ = 401; // Unauthorized
 
     const 💰 = 402; // Payment required
