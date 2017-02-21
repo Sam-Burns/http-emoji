@@ -42,5 +42,7 @@ interface HttpEmoji
     const 🚪⌛ = 504; // Gateway time-out
 
     const 🤝⌛  = 522; // Connection timed out
+
+    const 🔐🤝🚫 = 525; // SSL handshake failed (Cloudflare)
 }
 
