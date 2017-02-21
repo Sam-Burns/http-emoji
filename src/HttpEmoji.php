@@ -40,5 +40,7 @@ interface HttpEmoji
     const 😱 = 500; // Internal server error
 
     const 🚪⌛ = 504; // Gateway time-out
+
+    const 🤝⌛  = 522; // Connection timed out
 }
 
