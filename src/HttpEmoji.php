@@ -29,9 +29,11 @@ interface HttpEmoji
 
     const ☕ = 418; // I'm a teapot
 
-    const 🚬 = 420; // Enhance your calm
+    const 🚬 = 420; // Enhance your calm (Twitter)
 
     const ❓💯 = 429; // Too many requests
+
+    const 🔞 = 450; // Blocked by parental controls (Microsoft)
 
     const ©️️ = 451; // Unavailable for legal reasons
 
