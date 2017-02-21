@@ -13,5 +13,7 @@ interface HttpEmoji
 
     const 🤷 = 404; // Not found
 
+    const ⌚ = 408; // Request timeout
+
     const 😱 = 500; // Internal server error
 }
