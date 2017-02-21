@@ -25,6 +25,8 @@ interface HttpEmoji
 
     const ❓💯 = 429; // Too many requests
 
+    const ©️️ = 451; // Unavailable for legal reasons
+
     const 😱 = 500; // Internal server error
 }
 
