@@ -19,6 +19,8 @@ interface HttpEmoji
 
     const ⌚ = 408; // Request timeout
 
+    const 🥊 = 409; // Conflict
+
     const 📏 = 411; // Length required
 
     const ☕ = 418; // I'm a teapot
