@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Sam-Burns/http-emoji.svg?branch=master)](https://travis-ci.org/Sam-Burns/http-emoji)
+
 # HTTP Emoji
 
 A PHP library mapping emojis to their corresponding HTTP status codes.
