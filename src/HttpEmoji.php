@@ -23,5 +23,8 @@ interface HttpEmoji
 
     const ☕ = 418; // I'm a teapot
 
+    const ❓💯 = 429; // Too many requests
+
     const 😱 = 500; // Internal server error
 }
+
