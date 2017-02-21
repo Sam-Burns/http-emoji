@@ -21,7 +21,7 @@ interface HttpEmoji
 
     const 🤷 = 404; // Not found
 
-    const ❓⌛ = 408; // Request timeout
+    const ❓⌛ = 408; // Request time-out
 
     const 🥊 = 409; // Conflict
 
@@ -36,5 +36,7 @@ interface HttpEmoji
     const ©️️ = 451; // Unavailable for legal reasons
 
     const 😱 = 500; // Internal server error
+
+    const 🚪⌛ = 504; // Gateway time-out
 }
 
