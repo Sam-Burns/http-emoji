@@ -9,11 +9,15 @@ interface HttpEmoji
 
     const ➡️ = 301; // Moved permanently
 
+    const 👉 = 302; // Moved temporarily
+
     const ✋ = 401; // Unauthorized
 
     const 🤷 = 404; // Not found
 
     const ⌚ = 408; // Request timeout
+
+    const 📏 = 411; // Length required
 
     const 😱 = 500; // Internal server error
 }
